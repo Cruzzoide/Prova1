@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_31">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
@@ -119,5 +114,16 @@
 	<classpathentry kind="lib" path="C:/Users/carlo_000/Documents/Sistemi Informativi su Web/apache-tomee-jaxrs-1.7.1/lib/xbean-reflect-4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/carlo_000/Documents/Sistemi Informativi su Web/apache-tomee-jaxrs-1.7.1/lib/xmlschema-core-2.0.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/carlo_000/Documents/Sistemi Informativi su Web/postgresql-9.4-1201.jdbc41.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_45/lib/rt.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
